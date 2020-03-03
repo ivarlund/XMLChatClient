@@ -5,7 +5,6 @@
  * can send and receive messages from the server.
  *
  * @author Ivar Lund
- * ivlu1468
  * ivarnilslund@gmail.com
  */
 
