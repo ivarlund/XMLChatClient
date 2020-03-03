@@ -17,7 +17,6 @@ import java.net.Socket;
  * data until shut down by main class.
  *
  * @author Ivar Lund
- * ivlu1468
  * ivarnilslund@gmail.com
  */
 public class Listener extends Thread {
